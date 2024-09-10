@@ -1,3 +1,4 @@
+//ข้อ 2.
 class TreeNode {
     int value;
     TreeNode left, right;
