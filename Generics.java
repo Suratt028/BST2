@@ -1,3 +1,4 @@
+//ข้อ1.
 public class Box<T> {
     private T value;
 
