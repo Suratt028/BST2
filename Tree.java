@@ -1,3 +1,4 @@
+//ข้อ 4.
 import java.util.Scanner;
 import java.util.LinkedList;
 import java.util.Queue;
